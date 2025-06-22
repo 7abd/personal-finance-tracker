@@ -25,6 +25,36 @@ It uses React Context for managing global state and localStorage to keep the dat
 git clone https://github.com/7abd/personal-finance-tracker.git
 
 
-##  Why i built this 
+Go into the project folder
 
+bash
+Copy
+Edit
+cd personal-finance-tracker
+Install the dependencies
+
+bash
+Copy
+Edit
+npm install
+Start the project
+
+bash
+Copy
+Edit
+npm start
+Then open http://localhost:3000 in your browser.
+
+Tools Used
+React
+
+React Context
+
+localStorage
+
+react-minimal-pie-chart
+
+Why I Built This
 I wanted to practice working with global state and also how to keep data persistent using localStorage. This project helped me understand how to structure components and how to think about data flow in a React app.
+
+
